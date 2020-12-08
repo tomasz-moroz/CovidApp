@@ -1,5 +1,7 @@
 package pl.covidapp.dao;
 
+import pl.covidapp.dto.PersonDto;
+
 import java.util.List;
 
 public interface Dao<T> {

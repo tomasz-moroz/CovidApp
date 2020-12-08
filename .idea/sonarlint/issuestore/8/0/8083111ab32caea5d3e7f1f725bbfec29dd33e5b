@@ -1,0 +1,13 @@
+
+G
+java:S1444."2Make this "public static addressToDto" field final(­ÆŞ
+=
+java:S1604."(Make this anonymous inner class a lambda(­ÆŞ
+>
+java:S1604'"(Make this anonymous inner class a lambda(Ìš˜
+m
+java:S1104."XMake addressToDto a static final constant or non-public and provide accessors if needed.(­ÆŞ
+n
+java:S1104'"XMake dtoToAddress a static final constant or non-public and provide accessors if needed.(Ìš˜
+H
+java:S1444'"2Make this "public static dtoToAddress" field final(Ìš˜

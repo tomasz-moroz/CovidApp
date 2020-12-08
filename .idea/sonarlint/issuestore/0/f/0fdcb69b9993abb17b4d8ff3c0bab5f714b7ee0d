@@ -1,0 +1,13 @@
+
+y
+java:S11041"WMake personToDto a static final constant or non-public and provide accessors if needed.(–Ί‰ªώÿÿÿÿ8Έ΅”δ.
+S
+java:S14441"1Make this "public static personToDto" field final(–Ί‰ªώÿÿÿÿ8Έ΅”δ.
+N
+java:S1444*"1Make this "public static dtoToPerson" field final(οεσ8Έ΅”δ.
+t
+java:S1104*"WMake dtoToPerson a static final constant or non-public and provide accessors if needed.(οεσ8Έ΅”δ.
+E
+java:S1604*"(Make this anonymous inner class a lambda(οεσ8Έ΅”δ.
+J
+java:S16041"(Make this anonymous inner class a lambda(–Ί‰ªώÿÿÿÿ8Έ΅”δ.

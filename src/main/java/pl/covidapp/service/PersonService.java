@@ -52,10 +52,13 @@ public class PersonService {
 
         return PersonDto.personToDto.apply(update);
     }
-
+    @Transactional
     public void delete(Integer id) {
-
         personDao.delete(id);
     }
 
+    @Transactional
+    public List<PersonDto>getAllPersons(){
+        return personDao.getAll().stream().map(PersonDto.personToDto).collect(Collectors.toList());
+    }
 }
